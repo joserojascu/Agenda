@@ -1,6 +1,6 @@
 # Agenda
 
-Ejecicio:
+Ejercicio:
 
 Un sistema de administración de agendas de servicios cuenta con un módulo que permite la
 programación de citas para dichos servicios. Estas citas deben tener una duración mínima de 30
